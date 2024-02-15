@@ -17,8 +17,6 @@ This repository contains the frontend part of a Java Quiz project. It is a simpl
 
 ## Technologies Used
 
-- **HTML5**: For structuring the web pages.
-- **CSS3**: For styling the frontend components and layout.
 - **Java Packages**: For creating a functionality of the webpage.
 - **AJAX**: For asynchronous communication with the backend (not included in this repository).
 
